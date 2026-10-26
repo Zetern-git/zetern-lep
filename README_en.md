@@ -43,4 +43,4 @@ Zetern LEP combines virtualization, obfuscation, encryption, and execution contr
 ✅ Recommended build command for maximum protection:
 ./zep app -o app-protected -l 3 --vm-all --vault-all --anti-debug 2 --kill 2
 🔑 You can purchase a license key by sending a private message to the channel. Price: $50 (lifetime). Payment can be made via CryptoBot (USDT) or a Paddle payment link.
-🔰 You can also report bugs by sending a private message to the channel.
+🔰 You can also report bugs by sending a private message to the channel. - t.me/zeternn
